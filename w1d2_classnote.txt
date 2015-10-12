@@ -1,0 +1,73 @@
+Agile Development
+
+# Members of the Software Developement team:
+
+The Client
+
+Graphic Designer
+UX/UI/IDX
+Animator / Illustrator
+
+Ciderz
+  Front End (User interacting gubbins, levers, and buttons)
+  Back end (Stuff like dbs and cog) 
+  tool developement
+  Firmware - microcontroller
+  junior/senior
+  developement lead
+
+
+DBA (Data base)
+
+Data Analyst
+
+
+
+
+
+Project Planner
+
+Management
+
+Tech Support
+  - SysOps
+  - Provisioning
+
+Tech Author
+Translator
+
+
+
+
+
+
+# Waterfall model:
+
+A developement process; getting order to final product.
+
+Better methods; is Agile Developement methods
+better way to develope software:
+1. "individuala and interactions" over "process and tool"
+2. "working software" over "comprehensive documentations"
+3. "Customer collaboration" over "Contract negotiation"
+4. "Responding to change" over "Following a plan"
+
+# Agile Developement methods;
+
+
+# Scrum (software developement): An Agile software developement methodology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
